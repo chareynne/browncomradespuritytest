@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- JQuery -->
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+        <title> ** ** </title>
+        <link rel="stylesheet" href="format"> 
+    </head>
+    <body>
+        
+        <img src="title.png">
+        <div id="toHide"> <!--to hide-->
+            <div class="intro">
+                <p> <i> The Purity Test has historically served as nothing because Shahreen just made it up at 1am instead of finishing Anthro 109 once and for all. It's a voluntary opportunity for the Brown Comrades to bond, and for members to track the degeneracy of their experiences throughout the history of the group chat. </i> <br> <b> Caution: This is not a bucket list. Completion of all items on this test will likely result in extreme need to touch some fucking grass. </b> </p>
+                <label for="purity">Click on every item you have done. Say a quick Bismillah before you start, though!</label>
+                <br>
+            </div>
+
+            <div class="questions">
+                <form name="main" id="form">
+
+                <br>
+                1. <input type="checkbox" id="#1">
+                <label for="#1">Have THAT picture of Sukhi downloaded and saved in a designated spot in your camera roll?</label>
+
+                <br>
+                2. <input type="checkbox" id="#2">
+                <label for="#2">Have Aggy's Farewell Address copypasta saved in your notes?</label>
+
+                <br>
+                3. <input type="checkbox" id="#3">
+                <label for="#3">Been around since the Snapchat era?</label>
+
+                <br>
+                4. <input type="checkbox" id="#4">
+                <label for="#4">Been around since our anniversary date?</label>
+
+                <br>
+                5. <input type="checkbox" id="#5">
+                <label for="#5">Been Sachi's mutual since before the Snapchat era?</label>
+
+                <br>
+                6. <input type="checkbox" id="#6">
+                <label for="#6">Been Sachi's mutual since their mainstream Brown TikTok era?</label>
+
+                <br>
+                7. <input type="checkbox" id="#7">
+                <label for="#7">Added someone along the way who remains a permanent member?</label>
+
+                <br>
+                8. <input type="checkbox" id="#8">
+                <label for="#8">Asked for homework help in the group chat?</label>
+
+                <br>
+                9. <input type="checkbox" id="#9">
+                <label for="#9">Stayed up all night talking to other members?</label>
+
+                <br>
+                10. <input type="checkbox" id="#10">
+                <label for="#10">Given or received relationship advice in the group chat?</label>
+
+                <br>
+                11. <input type="checkbox" id="#11">
+                <label for="#11">Told the group about one of your sexcapades or heard another member's sexcapade?</label>
+
+                <br>
+                12. <input type="checkbox" id="#12">
+                <label for="#12">been in love (like <i>actual</i> love)</label>
+
+                <br>
+                13. <input type="checkbox" id="#13">
+                <label for="#13">Watched the Aggy vs. Azza brawl live?</label>
+
+                <br>
+                14. <input type="checkbox" id="#14">
+                <label for="#14">Participated in the People vs. Sanna brawl?</label>
+
+                <br>
+                15. <input type="checkbox" id="#15">
+                <label for="#15">Know the truth about what happened with us and Simmy?</label>
+
+                <br>
+                16. <input type="checkbox" id="#16">
+                <label for="#16">Were there when @itsshreyad chose the wrong fight to pick with Sachi?</label>
+
+                <br>
+                17. <input type="checkbox" id="#17">
+                <label for="#17">Created or been added to a throwaway group chat to talk about a weirdo who needs to get kicked?</label>
+
+                <br>
+                18. <input type="checkbox" id="#18">
+                <label for="#18">Casually have a smaller group chat with a select few other members?</label>
+
+                <br>
+                19. <input type="checkbox" id="#19">
+                <label for="#19">Remember who sent Sachi this insane DM that should really be satire but isn’t?</label>
+                <img src="girlboss.jpeg">
+
+                <br>
+                20. <input type="checkbox" id="#20">
+                <label for="#20">Joined the 🚫🧢italism Discord server? (May she rest in excruciating pain and misery)</label>
+
+                <br>
+                21. <input type="checkbox" id="#21">
+                <label for="#21">Added on multiple members' Close Friends stories (and/or vice versa)?</label>
+
+                <br>
+                22. <input type="checkbox" id="#22">
+                <label for="#22">Are friends with multiple members on BeReal?</label>
+
+                <br>
+                23. <input type="checkbox" id="#23">
+                <label for="#23">Follow multiple members finstas?</label>
+
+                <br>
+                24. <input type="checkbox" id="#24">
+                <label for="#24">Scrolled past the 6 month point on @glojabie?</label>
+
+                <br>
+                25. <input type="checkbox" id="#25">
+                <label for="#25">Seen @glojabie's first-ever post?</label>
+
+                <br>
+                26. <input type="checkbox" id="#26">
+                <label for="#26">Seen Akira be active on the Snapchat group even once?</label>
+
+                <br>
+                27. <input type="checkbox" id="#27">
+                <label for="#27">Were in Horndogs?</label>
+
+                <br>
+                28. <input type="checkbox" id="#28">
+                <label for="#28">Know who Aanchal is?</label>
+
+                <br>
+                29. <input type="checkbox" id="#29">
+                <label for="#29">What's the shape of Italy?</label>
+
+                <br>
+                30. <input type="checkbox" id="#30">
+                <label for="#30">Rage-quit or gotten rage-kicked from the group chat?</label>
+
+                <br>
+                31. <input type="checkbox" id="#31">
+                <label for="#31">Beefed with another member (or former member who has not been excommunicated)?</label>
+
+                <br>
+                32. <input type="checkbox" id="#32">
+                <label for="#32">Joined a group FaceTime call?</label>
+
+                <br>
+                33. <input type="checkbox" id="#33">
+                <label for="#33">Played an iMessage game with another member?</label>
+
+                <br>
+                34. <input type="checkbox" id="#34">
+                <label for="#34">Beat Bahar at Word Hunt?</label>
+
+                <br>
+                35. <input type="checkbox" id="#35">
+                <label for="#35">Sent Hinge screenshots in the chat?</label>
+
+                <br>
+                36. <input type="checkbox" id="#36">
+                <label for="#36">Were there when Mantak got excommunicated?</label>
+
+                <br>
+                37. <input type="checkbox" id="#37">
+                <label for="#37">Were there when Shreya got excommunicated?</label>
+
+                <br>
+                38. <input type="checkbox" id="#38">
+                <label for="#38">Were there when Manha got excommunicated?</label>
+
+                <br>
+                39. <input type="checkbox" id="#39">
+                <label for="#39">Were there when Sukhi got excommunicated?</label>
+
+                <br>
+                40. <input type="checkbox" id="#40">
+                <label for="#40">Immediately smelled a pyramid scheme as soon as u heard about this knife business Manha was in?</label>
+
+                <br>
+                41. <input type="checkbox" id="#41">
+                <label for="#41">Know exactly where this image is from upon first sight?</label>
+                <img src="breedable.jpeg">
+
+                <br>
+                42. <input type="checkbox" id="#42">
+                <label for="#42">Were there for the Jiyaa exposé?</label>
+
+                <br>
+                43. <input type="checkbox" id="#43">
+                <label for="#43">Know about the Anti Jiyaa Aggy Club?</label>
+
+                <br>
+                44. <input type="checkbox" id="#44">
+                <label for="#44">Been violated by Sukhi?</label>
+
+                <br>
+                45. <input type="checkbox" id="#45">
+                <label for="#45">Comforted Sukhi through one of his delusions?</label>
+
+                <br>
+                46. <input type="checkbox" id="#46">
+                <label for="#46">Are not mutuals with Agasthya Vedre-Kyanam? (why in the name of Allah Subhanahu Ta'ala does he put his full government name on TikTok)</label>
+
+                <br>
+                47. <input type="checkbox" id="#47">
+                <label for="#47">Never been mutuals with the aforementioned fatphobic toesucker (For liability reasons, Shahreen Sultana Kamal abstains from confirming or denying the validity of these claims and refrains for disclosing their personal beliefs on the matter.) </label>
+
+                <br>
+                48. <input type="checkbox" id="#48">
+                <label for="#48">Seen Aggy's toes?</label>
+
+                <br>
+                49. <input type="checkbox" id="#49">
+                <label for="#49">Voted for the first-ever Brown Comrade Superlatives?</label>
+
+                <br>
+                50. <input type="checkbox" id="#50">
+                <label for="#50">Attended the Brown Comrade Superlative Awards Ceremony? (Were there when Shahreen published the results)</label>
+
+                <br>
+                51. <input type="checkbox" id="#51">
+                <label for="#51">Won a Brown Comrade Superlative?</label>
+
+                <br>
+                52. <input type="checkbox" id="#52">
+                <label for="#52">Won multiple Brown Comrade Superlatives?</label>
+
+                <br>
+                53. <input type="checkbox" id="#53">
+                <label for="#53">Bonded with other members in wishing ill upon India?</label>
+
+                <br>
+                54. <input type="checkbox" id="#54">
+                <label for="#54">Bonded with other members in wishing ill upon Pakistan?</label>
+
+                <br>
+                55. <input type="checkbox" id="#55">
+                <label for="#55">Gotten caught in the middle of Ihsan flirting with Tejas?</label>
+
+                <br>
+                56. <input type="checkbox" id="#56">
+                <label for="#56">Understand the phrase "ur leng wys b mans tryna clart styll bell me if youre on that" and immediately recognize its origin?</label>
+
+                <br>
+                57. <input type="checkbox" id="#57">
+                <label for="#57">Shared your BDSM Test results with the group?</label>
+
+                <br>
+                58. <input type="checkbox" id="#58">
+                <label for="#58">Taken a member's advice or suggestion on a real-life affair?</label>
+
+                <br>
+                59. <input type="checkbox" id="#59">
+                <label for="#59">Taken a member's media or product recommendation?</label>
+
+                <br>
+                60. <input type="checkbox" id="#60">
+                <label for="#60">Genuinely experienced growth or change in opinion, belief, or worldview since first interacting with the group?</label>
+
+                <br>
+                61. <input type="checkbox" id="#61">
+                <label for="#61">Read All About Love: New Visions by bell hooks?</label>
+
+                <br>
+                62. <input type="checkbox" id="#62">
+                <label for="#62">Used an Islamic God phrase (Mashallah, Inshallah, Astagfirullah, etc.) in the chat?</label>
+
+                <br>
+                63. <input type="checkbox" id="#63">
+                <label for="#63">Sent a message or comment to the group chat or any member in your native language?</label>
+
+                <br>
+                64. <input type="checkbox" id="#64">
+                <label for="#64">Defended Sohan or thought that he's being surprisingly normal about something?</label>
+
+                <br>
+                65. <input type="checkbox" id="#65">
+                <label for="#65">Been insulted by Sohan?</label>
+
+                <br>
+                66. <input type="checkbox" id="#66">
+                <label for="#66">Been seriously caught off guard by something Sohan said?</label>
+
+                <br>
+                67. <input type="checkbox" id="#67">
+                <label for="#67">Joined us in prayer for Yash's pregnancy scare?</label>
+
+                <br>
+                68. <input type="checkbox" id="#68">
+                <label for="#68">Joined us in prayer for Bahar's pregnancy scare?</label>
+
+                <br>
+                69. <input type="checkbox" id="#69">
+                <label for="#69">Been deeply invested in something going on in another member's life?</label>
+
+                <br>
+                70. <input type="checkbox" id="#70">
+                <label for="#70">Thought "I have to tell the group chat about this" when something happened to you, even if it's mundane?</label>
+
+                <br>
+                71. <input type="checkbox" id="#71">
+                <label for="#71">Attend college in California or Canada?</label>
+
+                <br>
+                72. <input type="checkbox" id="#72">
+                <label for="#72">Have a zip code that starts with 8 or 9?</label>
+
+                <br>
+                73. <input type="checkbox" id="#73">
+                <label for="#73">Hurt a certain 𝓲𝔂𝓮𝓻 𝓫𝓻𝓪𝓱𝓶𝓲𝓷's feelings? 🥺🥺</label>
+
+                <br>
+                74. <input type="checkbox" id="#74">
+                <label for="#74">Quoted anything this bitch said while they were interacting with us?</label>
+                <img src="iyer brahmin lol.jpg">
+
+                <br>
+                75. <input type="checkbox" id="#75">
+                <label for="#75">Really enjoy one particular member's voice notes?</label>
+
+                <br>
+                76. <input type="checkbox" id="#76">
+                <label for="#76">Had feelings for another member (or former member)?</label>
+
+                <br>
+                77. <input type="checkbox" id="#77">
+                <label for="#77">Flirted with a member (or former member) privately outside of the group chat?</label>
+
+                <br>
+                78. <input type="checkbox" id="#78">
+                <label for="#78">Think at least one other member is really hot? (Like you would go for them if they lived in your city type of hot)</label>
+
+                <br>
+                79. <input type="checkbox" id="#79">
+                <label for="#79">Watched in exasperation as Shahreen yet again grabbed the conversation by the neck and forcefully turned it towards the topic of theme parks, urban studies, or both?</label>
+
+                <br>
+                80. <input type="checkbox" id="#80">
+                <label for="#80">Just a bit of banter with drunk Ihsan *Brexit Geezer voice*?</label>
+
+                <!--81-90-->
+                <br>
+                81. <input type="checkbox" id="#81">
+                <label for="#81">Conversed with a stoned Tejas or Sohan? (Normal wording for the normal, non-Brits)</label>
+
+                <br>
+                82. <input type="checkbox" id="#82">
+                <label for="#82">DRAINNN GANGG</label>
+
+                <br>
+                83. <input type="checkbox" id="#83">
+                <label for="#83">Been canceled or canceled-adjacent ✧･ﾟ:* on TikTok or Twitter?</label>
+
+                <br>
+                84. <input type="checkbox" id="#84">
+                <label for="#84">Had another member come to your defense after people came after you on social media?</label>
+
+                <!--IDK WHAT TO LABEL THIS ON EITHER-->
+                <br>
+                85. <input type="checkbox" id="#85">
+                <label for="#85">Were mutuals with another member long before the first group chat formed (so since sometime in 2021 at least)?</label>
+
+                <br>
+                86. <input type="checkbox" id="#86">
+                <label for="#86">Reject the model minority myth? (Are not studying Pre-Med, Pre-Law, or CompSci)</label>
+
+                <br>
+                87. <input type="checkbox" id="#87">
+                <label for="#7">dReject the model minority myth? Pt. 2 (Attend/attended to community college)</label>
+
+                <br>
+                88. <input type="checkbox" id="#88">
+                <label for="#88">Shared with other members the full name and/or social media handle of someone you dislike in real life?</label>
+
+                <br>
+                89. <input type="checkbox" id="#89">
+                <label for="#89">Know where at least 5 members live and/or go to school? (holy shit this and the one above are terrifying)</label>
+
+                <br>
+                90. <input type="checkbox" id="#90">
+                <label for="#90">Know exactly what's going on in this video?</label>
+                <img src="sohan-noose.jpeg">
+
+                <!--91-100-->
+                <br>
+                91. <input type="checkbox" id="#91">
+                <label for="#91">Know at least five members' legal names?</label>
+
+                <br>
+                92. <input type="checkbox" id="#92">
+                <label for="#92">Know where at least 5 members live and/or go to school? (holy shit this and the one above are terrifying)</label>
+
+                <br>
+                93. <input type="checkbox" id="#93">
+                <label for="#93">Believe the Rollercoaster Boy Complex?</label>
+
+                <br>
+                94. <input type="checkbox" id="#94">
+                <label for="#94">Have mutual friends with other members, but they are not a part of the group chat?</label>
+
+                <br>
+                95. <input type="checkbox" id="#95">
+                <label for="#95">sexiled your roommate</label>
+
+                <br>
+                96. <input type="checkbox" id="#96">
+                <label for="#96">Had something in the group chat be the highlight of your day? (Talk about chronically online!)</label>
+
+                <br>
+                97. <input type="checkbox" id="#97">
+                <label for="#97">Pondered about the fate of the group chat?</label>
+
+                <br>
+                98. <input type="checkbox" id="#98">
+                <label for="#98">Are at least 90% sure we'll remain active everyday at the 2-year mark?</label>
+
+                <br>
+                99. <input type="checkbox" id="#99">
+                <label for="#99">Think that at least 2 members (besides Yash and Sohan) will have an IRL meetup within the next 1-2 years?</label>
+
+                <br>
+                100. <input type="checkbox" id="#100">
+                <label for="#100">Can see at least one instance of 2 current members hooking up and/or dating somewhere sometime someday?</label>
+                
+                <br>
+                101. <input type="checkbox" id="#100">
+                <label for="#101">BONUS POINT!</label>
+                <img src="bonus.png">
+            
+            </div>
+
+            <br>
+            <br>
+
+            <script type="text/javascript" src="script.js"></script>
+
+            <div class="button">
+                <!--THIS BUTTON WILL CALCULATE SCORE-->
+                <button type="button" id="button" style="cursor: pointer; margin: 10px">Calculate my score.</button>
+
+                <!--THIS BUTTON WILL RESET THE TEST-->
+                <button type="reset" id="reset" style="cursor: pointer; margin: 10px;" onclick="clearBoxes()">Reset the test.</button>
+            </div>
+            </form>
+        </div> <!--to hide-->
+
+            
+
+            <div id="toShow">
+                <h2 id="test">Your score:</h2>
+                <h1 id="holiness" class="number"></h1>
+            </div> <!--id = toShow-->
+
+            <script>
+
+                // hides the results at the start
+                $("#toShow").hide();
+
+                // onclick for the sumbit button 
+                $('#button').click(function() {
+                    //calculates purity
+                    var holiness = 0;
+                    var sin = document.forms["main"];
+                    var purity = sin.querySelectorAll('input[type="checkbox"]:checked');
+
+                    //alert("Score: " + (100 - x.length));
+                    holiness = (100 - purity.length);
+                    
+                    //prints out the score (h1)
+                    $('#holiness').html(holiness);
+                    
+                    //shows the score and hides the form
+                    $("#toShow").show();
+                    $("#toHide").hide();
+                    });
+            
+            </script>
+
+    </body>
+
+
+</html>
