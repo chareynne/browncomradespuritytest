@@ -14,8 +14,8 @@ img{
 
 /*background*/
 body{
-    background-color: #FFE5B9;
-    /*background-image:url("");*/
+    background-color: #FEF0C5;
+    background-image:url("/browncomradespuritytest/pics/background.png");
 }
 
 /*includes title and instruction paragraph*/
@@ -38,7 +38,7 @@ h2{
 
 /*score number*/
 .number{
-    color: red;
+    color: #FF0000;
     font-size: 200%;
     font-weight: bold;
     text-align: center;
